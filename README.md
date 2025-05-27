@@ -33,7 +33,7 @@
 ## 📺 Demo GIF
 
 <p align="center">
-  <img src="/demo.gif" alt="Demo GIF" width="600" />
+  <img src="public/demo.gif" alt="Demo GIF" width="600" />
 </p>
 
 
