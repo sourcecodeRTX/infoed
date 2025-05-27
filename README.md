@@ -30,12 +30,10 @@
 ---
 
 
-## 📺 Demo Video
+## 📺 Demo GIF
 
 <p align="center">
-  <video src="public/demo.mp4" controls width="600">
-    Your browser does not support the video tag.
-  </video>
+  <img src="/demo.gif" alt="Demo GIF" width="600" />
 </p>
 
 
@@ -143,13 +141,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📁 Where to Place the Demo Video
+## 📁 Where to Place the Demo GIF
 
-- Place your demo video file (e.g., `demo.mp4`) in the `public/` directory.
+- Place your demo GIF file (e.g., `demo.gif`) in the `public/` directory.
 - Reference it in the README using:
 
   ```markdown
-  <video src="/demo.mp4" controls width="100%" />
+  <img src="/demo.gif" alt="Demo GIF" width="100%" />
   ```
 
 ---
